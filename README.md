@@ -22,6 +22,7 @@ The package contains following files and the discription is as follows
 inside any ohter are completly removed from the output variable
 -> The output is vaibale that can be stored as pickle
 -> This is input for main Program for GPP
+-> THE FILE INCLUDES A GENERAL ALGORITHM FOR FINDING UNION OF ALL INTERSECTING GEOMETRICAL AREAS
 
 4) GPP Main
 
