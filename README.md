@@ -1,4 +1,4 @@
-# global-path-planning
+# Food Delivery drone global-path-planning
 
 All Global Path Planning stuff!
 
@@ -13,7 +13,7 @@ The package contains following files and the discription is as follows
 2) Polygons from kml
 
 -> Gives the polygon variable that can be stored as pickle or directly imported to scrubbing script
--> Source for this program is a kml text file in which  polygons(lat-lon) of no-fly zones are given under attributes 'Coordinates'
+-> Source for this program is a kml map(text) file in which  polygons(lat-lon) of no-fly zones are given under attributes 'Coordinates'
 
 3) Scrubbing
 
