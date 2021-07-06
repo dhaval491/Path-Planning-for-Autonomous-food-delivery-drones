@@ -47,6 +47,7 @@ inside any ohter are completly removed from the output variable
 
 -> Kml map file from which polygons(no_fly_zones) are to be extracted 
 Sample images and results
+
 **Demostration of Merging overlapping no Flyzones**
 These are no flyzones from the map file plotted on Matplotlib using which may or may not be merged into one whole no_fly_zones. 
 Merging is necessary to reduce vertices and make calculations faster 
