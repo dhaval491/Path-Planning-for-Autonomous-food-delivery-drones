@@ -60,7 +60,7 @@ Merging is necessary to reduce vertices and make calculations faster
 
 ![Merged No flyzones](https://github.com/dhaval491/Trajectory-Planning-for-Autonomous-food-delivery-drones/blob/master/GPP_Merged_NoFlyZones.png)
 
-**Once we have merged no fly zone in an irregular shap we need to make bounding boxes if there a more no fly zones to reduces the vertices**
+**Once we have merged no fly zone in an irregular shap we need to make bounding boxes if there are more no fly zones to reduces the vertices**
 
 ![Bounding Box around a No fly zone](https://github.com/dhaval491/Trajectory-Planning-for-Autonomous-food-delivery-drones/blob/master/GPP_Bounding_boxes_around_No_fly_Zones.png)
 
