@@ -1,5 +1,14 @@
-# Food Delivery drone global-path-planning
-
+# Food Delivery drone global-path-planning between delivery destination and the current location of the drone
+**Notable Tasks**
+**-> Parsing data from "No - Fly Zones" Map file that is in .kml format
+**-> Figuring out if the delivery destination is in legal fly zone
+**-> Finding out the no fly zones coming between current location and delivery destination in a specific order from drone location
+**-> Merging two or more overlapping no fly zones for making shortest path calculations faster
+**-> Making closest bounding boxes aroung irregular shaped no_fly zones to reduces the vertices to make calculations faster
+**-> Making Using of Set, Map, Hashmap data structures for calcluations.
+**-> Used Shapely, xml.etree, Matplot lib, numpy etc
+**-> Calculating THE SHORTEST PATH FOR THE DELIVERY FROM CURRENT DRONE LOCATION
+** Check the sample images in this file!
 All Global Path Planning stuff!
 
 The package contains following files and the discription is as follows
@@ -38,7 +47,18 @@ inside any ohter are completly removed from the output variable
 
 -> Kml map file from which polygons(no_fly_zones) are to be extracted 
 Sample images and results
+**Demostration of Merging overlapping no Flyzones**
+These are no flyzones from the map file plotted on Matplotlib using which may or may not be merged into one whole no_fly_zones. 
+Merging is necessary to reduce vertices and make calculations faster 
+![Unmerged No flyzones](https://github.com/dhaval491/Trajectory-Planning-for-Autonomous-food-delivery-drones/blob/master/GPP__NoFlyZones.png)
 
+-> Merged no fly zones
+![Merged No flyzones](https://github.com/dhaval491/Trajectory-Planning-for-Autonomous-food-delivery-drones/blob/master/GPP_Merged_NoFlyZones.png)
 
-Shortest Path for a sample of two no fly zones on the way
+**Once we have merged no fly zone in an irregular shap we need to make bounding boxes if there a more no fly zones to reduces the vertices**
+![Bounding Box around a No fly zone](https://github.com/dhaval491/Trajectory-Planning-for-Autonomous-food-delivery-drones/blob/master/GPP_Bounding_boxes_around_No_fly_Zones.png)
+**Sample No flyzones coming between source and destination to calculate the shortest path see the nest image to check which two no fly zone are considered
+![No_flyzones](https://github.com/dhaval491/Trajectory-Planning-for-Autonomous-food-delivery-drones/blob/master/Sample%20Two%20no%20flyzone.png)
+
+**Shortest Path for a sample of two no fly zones on the way
 ![Shortest path](https://github.com/dhaval491/Trajectory-Planning-for-Autonomous-food-delivery-drones/blob/master/GPP_Shotest_path.png)
