@@ -37,3 +37,8 @@ inside any ohter are completly removed from the output variable
 6) Drones_no_fly_zones.kml
 
 -> Kml map file from which polygons(no_fly_zones) are to be extracted 
+Sample images and results
+
+
+Shortest Path for a sample of two no fly zones on the way
+![Shortest path](https://github.com/dhaval491/Trajectory-Planning-for-Autonomous-food-delivery-drones/blob/master/GPP_Shotest_path.png)
