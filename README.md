@@ -17,7 +17,8 @@
 
 **-> Calculating THE SHORTEST PATH FOR THE DELIVERY FROM CURRENT DRONE LOCATION**
 
-**THE ALGORITHM FOR FINDING THE SHORTEST PATH CAN BE FOUND IN THE RESEARCH PAPER BY OUR TEAM AT:https://www.rsisinternational.org/journals/ijrsi/archive/volume-vi-issue-xii/ **
+**THE ALGORITHM FOR FINDING THE SHORTEST PATH CAN BE FOUND IN THE RESEARCH PAPER BY OUR TEAM AT:https://www.rsisinternational.org/journals/ijrsi/archive/volume-vi-issue-xii/**
+
 **Check the sample images in this file!
 
 All Global Path Planning stuff!
