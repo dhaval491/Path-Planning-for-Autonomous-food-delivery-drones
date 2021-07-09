@@ -65,6 +65,8 @@ Sample images and results
 
 **Sample No flyzones coming between source and destination to calculate the shortest path see the nest image to check which two no fly zone are considered
 
+we have selected drone location and its destination such that the blue no fly zoena nd two circled yellow no fly zones are in the way of two locations
+
 ![No_flyzones](https://github.com/dhaval491/Trajectory-Planning-for-Autonomous-food-delivery-drones/blob/master/Sample%20Two%20no%20flyzone.png)
 
 **Shortest Path for a sample of two no fly zones on the way between drone location and destination**
