@@ -67,7 +67,7 @@ Sample images and results
 
 ![No_flyzones](https://github.com/dhaval491/Trajectory-Planning-for-Autonomous-food-delivery-drones/blob/master/Sample%20Two%20no%20flyzone.png)
 
-**Shortest Path for a sample of two no fly zones on the way between drone location and destination
+**Shortest Path for a sample of two no fly zones on the way between drone location and destination**
 
 ![Shortest path](https://github.com/dhaval491/Trajectory-Planning-for-Autonomous-food-delivery-drones/blob/master/GPP_Shotest_path.png)
 
