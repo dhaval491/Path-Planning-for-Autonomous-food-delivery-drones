@@ -91,7 +91,7 @@ These are no flyzones from the map file plotted on Matplotlib using which may or
 Merging is necessary to reduce vertices and make calculations faster 
 ![Unmerged No flyzones](https://github.com/dhaval491/Path-Planning-for-Autonomous-food-delivery-drones/blob/master/Non_united_polys.jpg)
 
--> Merged no fly zones from above
+-> Merged no fly zones from above Y axis is Latitude and X axis is Longitude
 
 ![Merged No flyzones](https://github.com/dhaval491/Path-Planning-for-Autonomous-food-delivery-drones/blob/master/united_polys.jpeg)
 
