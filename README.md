@@ -89,11 +89,11 @@ we have selected drone location and its destination such that the blue no fly zo
 These are no flyzones from the map file plotted on Matplotlib using which may or may not be merged into one whole no_fly_zones. 
 
 Merging is necessary to reduce vertices and make calculations faster 
-![Unmerged No flyzones](https://github.com/dhaval491/Trajectory-Planning-for-Autonomous-food-delivery-drones/blob/master/GPP__NoFlyZones.png)
+![Unmerged No flyzones](https://github.com/dhaval491/Path-Planning-for-Autonomous-food-delivery-drones/blob/master/Non_united_polys.jpg)
 
 -> Merged no fly zones from above
 
-![Merged No flyzones](https://github.com/dhaval491/Trajectory-Planning-for-Autonomous-food-delivery-drones/blob/master/GPP_Merged_NoFlyZones.png)
+![Merged No flyzones](https://github.com/dhaval491/Path-Planning-for-Autonomous-food-delivery-drones/blob/master/united_polys.jpeg)
 
 **Once we have merged no fly zone in an irregular shap we need to make bounding boxes if there are more no fly zones to reduces the vertices**
 
