@@ -73,7 +73,7 @@ inside any ohter are completly removed from the output variable
 
 Sample images and results
 
-**Sample No flyzones coming between source and destination to calculate the shortest path see the nest image to check which two no fly zone are considered
+**Sample No flyzones coming between source and destination to calculate the shortest path see the nest image to check which two no fly zone are considered**
 
 we have selected drone location and its destination such that the blue no fly zoena nd two circled yellow no fly zones are in the way of two locations
 
