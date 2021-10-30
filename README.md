@@ -19,7 +19,7 @@
 
 **THE ALGORITHM FOR FINDING THE SHORTEST PATH CAN BE FOUND IN THE RESEARCH PAPER BY OUR TEAM AT:https://www.rsisinternational.org/journals/ijrsi/archive/volume-vi-issue-xii/**
 
-**The Algorithm is a hybrid of non-sample based RRT and sample based A* algorithm where map is determined by computer vision.
+**The Algorithm is a hybrid of non-sample based RRT and sample based A* algorithm where map is determined by computer vision.**
 
 **Check the sample images in this file!**
 
