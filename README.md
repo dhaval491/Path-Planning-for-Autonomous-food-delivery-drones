@@ -1,19 +1,19 @@
 # Food Delivery drone global-path-planning between delivery destination and the current location of the drone
 **Notable Tasks**
 
-**-> Parsing data from "No - Fly Zones" Map file that is in .kml format
+**-> Parsing data from "No - Fly Zones" Map file that is in .kml format**
 
-**-> Figuring out if the delivery destination is in legal fly zone
+**-> Figuring out if the delivery destination is in legal fly zone**
 
-**-> Finding out the no fly zones coming between current location and delivery destination in a specific order from drone location
+**-> Finding out the no fly zones coming between current location and delivery destination in a specific order from drone location**
 
-**-> Merging two or more overlapping no fly zones to reduce graph vertices for making shortest path calculations faster
+**-> Merging two or more overlapping no fly zones to reduce graph vertices for making shortest path calculations faster**
 
-**-> Making closest bounding boxes aroung irregular shaped no_fly zones to reduces the vertices to make calculations faster
+**-> Making closest bounding boxes aroung irregular shaped no_fly zones to reduces the vertices to make calculations faster**
 
-**-> Making Using of Set, Map, Hashmap data structures for calcluations.
+**-> Making Using of Set, Map, Hashmap data structures for calcluations.**
 
-**-> Used Shapely, xml.etree, Matplot lib, numpy etc
+**-> Used Shapely, xml.etree, Matplot lib, numpy etc**
 
 **-> Calculating THE SHORTEST PATH FOR THE DELIVERY FROM CURRENT DRONE LOCATION**
 
@@ -21,7 +21,7 @@
 
 **The Algorithm is a hybrid of non-sample based RRT and sample based A* algorithm where map is determined by computer vision.
 
-**Check the sample images in this file!
+**Check the sample images in this file!**
 
 All Global Path Planning stuff!
 
